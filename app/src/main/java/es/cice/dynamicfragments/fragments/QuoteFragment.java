@@ -167,7 +167,7 @@ public class QuoteFragment extends Fragment {
 
     public void showTitle(int index) {
         titleTV.setText(titles[index]);
-        quoteTV.setText(quotes[index]);
+        quoteTV.setText(quotes[index]); 
 
     }
 }
