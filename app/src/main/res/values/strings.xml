@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DynamicFragments</string>
+    <string-array name="title">
+        <item>Hamlet, principe de Dinamarca</item>
+        <item>Romeo y Julieta</item>
+        <item>Ricardo III</item>
+        <item>Julio Cesar</item>
+    </string-array>
+
+    <string-array name="citas">
+        <item>“Lo que yo llevo dentro no se expresa: lo demás es ropaje de la pena”</item>
+        <item>Enséñame a olvidarme de pensar.</item>
+        <item>Es más falso que los juramentos hechos con vino</item>
+        <item>Esto me lo invento yo y listo. Cita de Julio Cesar</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
